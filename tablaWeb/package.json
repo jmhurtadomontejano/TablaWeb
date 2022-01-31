@@ -1,0 +1,23 @@
+{
+  "name": "tablaweb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmhurtadomontejano/TablaWeb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmhurtadomontejano/TablaWeb/issues"
+  },
+  "homepage": "https://github.com/jmhurtadomontejano/TablaWeb#readme",
+  "description": ""
+}
